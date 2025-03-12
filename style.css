@@ -1,5 +1,5 @@
 body {
-  width:90%;
+  width:100%;
 }
 
 th {
@@ -17,4 +17,9 @@ th {
 
 ul {
    margin:0;
+}
+
+#planets {
+  margin:auto;
+  width:800px;
 }
